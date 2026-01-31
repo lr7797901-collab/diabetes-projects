@@ -26,7 +26,6 @@ The models use molecular descriptors generated from chemical structures.
 - Python
 - Streamlit (for web app)
 - scikit-learn, XGBoost (ML models)
-- TensorFlow & PyTorch (DL models)
 - pandas, numpy, plotly (data handling & visualization)
 - RDKit, Mordred (for feature engineering — run locally)
 
